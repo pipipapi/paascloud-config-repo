@@ -15,8 +15,8 @@ spring:
   rabbitmq:
     host: paascloud-mq-rabbit
     port: 5672
-    username: guest
-    password: guest
+    username: rabbit
+    password: rabbit
   redis:
     host: paascloud-db-redis
     password: paascloud@redis
